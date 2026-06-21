@@ -62,7 +62,6 @@ emi-app/
 
 https://emi-calculator-cyan-two.vercel.app
 
-
 ## GitHub Repository
 
 https://github.com/shilpabm-tech/emi-calculator
