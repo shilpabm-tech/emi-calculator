@@ -156,6 +156,32 @@ export default function ContactSection() {
             />
           </div>
         </div>
+        {/* Developer Information */}
+        <div
+          className="mt-6 p-5 rounded-[14px]"
+          style={{
+            background: "rgba(255,255,255,0.03)",
+            border: "1px solid var(--panel-border)",
+          }}
+        >
+          <h3
+            className="font-bold mb-3"
+            style={{
+              fontFamily: "'Space Grotesk', sans-serif",
+              color: "var(--ink)",
+            }}
+          >
+            👩‍💻 Developer Information
+          </h3>
+
+          <p style={{ color: "var(--ink-dim)" }}>
+            <strong>Name:</strong> Shilpa M
+          </p>
+
+          <p style={{ color: "var(--ink-dim)" }}>
+            <strong>Email:</strong> shilpareddybm2006@gmail.com
+          </p>
+        </div>
 
         {/* Submit */}
         <div className="mt-6 flex items-center gap-4 flex-wrap">
