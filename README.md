@@ -60,9 +60,8 @@ emi-app/
 
 ## Live Demo
 
-Added my Vercel deployment URL here after deployment
+https://emi-calculator-cyan-two.vercel.app
 
-emi-calculator-cyan-two.vercel.app
 
 ## GitHub Repository
 
