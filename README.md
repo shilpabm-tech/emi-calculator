@@ -60,11 +60,9 @@ emi-app/
 
 ## Live Demo
 
-Add your Vercel deployment URL here after deployment.
+Added my Vercel deployment URL here after deployment
 
-Example:
-
-https://your-project.vercel.app
+emi-calculator-cyan-two.vercel.app
 
 ## GitHub Repository
 
